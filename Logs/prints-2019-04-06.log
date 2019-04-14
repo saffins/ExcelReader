@@ -1,0 +1,11 @@
+22:57:40.799 [main] DEBUG alpha.Demo - i debugging
+22:57:40.806 [main] INFO  alpha.Demo - infomessage
+22:57:40.806 [main] ERROR alpha.Demo - hi
+22:57:40.806 [main] FATAL alpha.Demo - fatal
+22:58:24.686 [main] DEBUG alpha.Demo - i debugging
+22:58:24.696 [main] INFO  alpha.Demo - infomessage
+22:58:24.696 [main] ERROR alpha.Demo - hi
+22:58:24.697 [main] FATAL alpha.Demo - fatal
+22:58:45.528 [main] DEBUG alpha.Demo - i debugging
+22:58:45.534 [main] INFO  alpha.Demo - infomessage
+22:58:45.534 [main] ERROR alpha.Demo - hi

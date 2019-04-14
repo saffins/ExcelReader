@@ -1,0 +1,15 @@
+2019-04-06 21:20:18 [main] ERROR Demo:13 - hi
+2019-04-06 21:20:44 [main] ERROR Demo:13 - hi
+2019-04-06 21:20:44 [main] FATAL Demo:14 - fatal
+2019-04-06 21:34:47 [main] ERROR Demo:13 - hi
+2019-04-06 21:34:47 [main] FATAL Demo:14 - fatal
+2019-04-06 21:35:15 [main] ERROR Demo:13 - hi
+2019-04-06 21:35:15 [main] FATAL Demo:14 - fatal
+2019-04-06 21:35:40 [main] ERROR Demo:13 - hi
+2019-04-06 21:35:40 [main] FATAL Demo:14 - fatal
+2019-04-06 21:36:37 [main] DEBUG Demo:11 - i debugging
+2019-04-06 21:36:37 [main] ERROR Demo:13 - hi
+2019-04-06 21:36:37 [main] FATAL Demo:14 - fatal
+2019-04-06 21:36:53 [main] DEBUG Demo:11 - i debugging
+2019-04-06 21:36:53 [main] ERROR Demo:13 - hi
+2019-04-06 21:36:53 [main] FATAL Demo:14 - fatal

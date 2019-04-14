@@ -1,0 +1,8 @@
+11:05:06.548 [main] DEBUG com.ecw.base.TestBase - driver quit
+11:09:35.496 [main] DEBUG com.ecw.base.TestBase - chrome launched
+11:09:39.063 [main] DEBUG com.ecw.base.TestBase - inside logintest
+11:10:03.394 [main] DEBUG com.ecw.base.TestBase - driver quit
+11:11:13.951 [main] DEBUG com.ecw.base.TestBase - chrome launched
+11:11:17.365 [main] DEBUG com.ecw.base.TestBase - inside logintest
+11:11:20.904 [main] DEBUG com.ecw.base.TestBase - add customer is displayed
+11:11:21.689 [main] DEBUG com.ecw.base.TestBase - driver quit
